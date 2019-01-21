@@ -3,7 +3,7 @@ layout: post
 title: Research Experience
 ---
 
-<img src="/images/me/littleMU.png" class="fit image"> 
+<img src="/images/me/littleMu.png" class="fit image"> 
 
 # Research Experience
 
@@ -35,7 +35,7 @@ title: Research Experience
 
 ------
 
-<img src="/images/me/TechXCom1.PNG" class="fit image">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This summer, I worked as a teaching assistant of *Deep Reinforcement Learning* course at *[TechX Summit](http://techxsummit.com/index-en.html)*, one of the biggest and most influential STEM summer camps in China.<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Except for assisting with teaching, I also gave a seminar talk on the theory of Chatbot there and devoted to help students with their hackathon projects concerning machine learning and deep learning at the end of the summit.
+<img src="/images/me/TechXCom1.png" class="fit image">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This summer, I worked as a teaching assistant of *Deep Reinforcement Learning* course at *[TechX Summit](http://techxsummit.com/index-en.html)*, one of the biggest and most influential STEM summer camps in China.<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Except for assisting with teaching, I also gave a seminar talk on the theory of Chatbot there and devoted to help students with their hackathon projects concerning machine learning and deep learning at the end of the summit.
 
 
 
