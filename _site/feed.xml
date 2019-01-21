@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-21T23:32:49+08:00</updated><id>http://localhost:4000/</id><title>Qingyang Zhong’s Homepage</title><subtitle>Welcome to my personal page.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-21T23:53:32+08:00</updated><id>http://localhost:4000/</id><title>Qingyang Zhong’s Homepage</title><subtitle>Welcome to my personal page.
 </subtitle><author><name>Qingyang Zhong</name><email>zhongqy16@mails.tsinghua.edu.com</email></author><entry><title>Extracurricular Life</title><link href="http://localhost:4000/2018/12/08/4-Life/" rel="alternate" type="text/html" title="Extracurricular Life" /><published>2018-12-08T00:00:00+08:00</published><updated>2018-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2018/12/08/4-Life</id><content type="html" xml:base="http://localhost:4000/2018/12/08/4-Life/">&lt;p&gt;&lt;img src=&quot;/images/me/symphony3.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;symphony-orchestra&quot;&gt;Symphony Orchestra&lt;/h1&gt;
@@ -7,7 +7,7 @@
 
 &lt;p&gt;        I started practicing musical instruments when I was 4 years old and have been learning music for more than 15 years. I obtained my Portatone Keyboard Amateur Grade 10  In 2008 and Clarinet Amateur Grade 10 In 2012, both of the highest amateur level in China. Since I was admitted into Tsinghua University, I have been the Clarinet of Tsinghua University Symphony Orchestra. During my freshman year,  I participated in 7 performances and won Gold Prize of Group Instrumental Performance in Beijing University Music Festival on behalf of my school, which I am really proud of .&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/me/symphony2.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/me/symphony2.JPG&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;dancing&quot;&gt;Dancing&lt;/h1&gt;
 
@@ -93,7 +93,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Programming languages:&lt;/strong&gt; &lt;br /&gt;Python, C#, C/C++, MATLAB, VerilogHDL.&lt;br /&gt;&lt;strong&gt;Software and Operation Systems:&lt;/strong&gt; &lt;br /&gt;GitHub, Linux, LaTeX.&lt;br /&gt;&lt;strong&gt;Languages:&lt;/strong&gt; &lt;br /&gt;Native in Chinese; Proficient in English (GRE Verbal 157, Quantitative 169)&lt;/p&gt;</content><author><name>Qingyang Zhong</name><email>zhongqy16@mails.tsinghua.edu.com</email></author><summary></summary></entry><entry><title>About Me</title><link href="http://localhost:4000/2018/12/08/1-About/" rel="alternate" type="text/html" title="About Me" /><published>2018-12-08T00:00:00+08:00</published><updated>2018-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2018/12/08/1-About</id><content type="html" xml:base="http://localhost:4000/2018/12/08/1-About/">&lt;p&gt;&lt;img src=&quot;/images/me/Me3.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Programming languages:&lt;/strong&gt; &lt;br /&gt;Python, C#, C/C++, MATLAB, VerilogHDL.&lt;br /&gt;&lt;strong&gt;Software and Operation Systems:&lt;/strong&gt; &lt;br /&gt;GitHub, Linux, LaTeX.&lt;br /&gt;&lt;strong&gt;Languages:&lt;/strong&gt; &lt;br /&gt;Native in Chinese; Proficient in English (GRE Verbal 157, Quantitative 169)&lt;/p&gt;</content><author><name>Qingyang Zhong</name><email>zhongqy16@mails.tsinghua.edu.com</email></author><summary></summary></entry><entry><title>About Me</title><link href="http://localhost:4000/2018/12/08/1-About/" rel="alternate" type="text/html" title="About Me" /><published>2018-12-08T00:00:00+08:00</published><updated>2018-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2018/12/08/1-About</id><content type="html" xml:base="http://localhost:4000/2018/12/08/1-About/">&lt;p&gt;&lt;img src=&quot;/images/me/Me3.JPG&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;        &lt;strong&gt;I am currently a junior undergraduate student in Department of Automation (EECS), Tsinghua University&lt;/strong&gt;. &lt;strong&gt;My research interests lie in Data Mining and Knowledge Discovery.&lt;/strong&gt;&lt;/p&gt;
 

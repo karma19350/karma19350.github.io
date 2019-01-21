@@ -2,7 +2,7 @@
 layout: post
 title: About Me
 ---
-<img src="/images/me/Me3.jpg" class="fit image">
+<img src="/images/me/Me3.JPG" class="fit image">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I am currently a junior undergraduate student in Department of Automation (EECS), Tsinghua University**. **My research interests lie in Data Mining and Knowledge Discovery.**
 
