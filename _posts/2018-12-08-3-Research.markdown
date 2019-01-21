@@ -3,7 +3,7 @@ layout: post
 title: Research Experience
 ---
 
-<img src="/images/me/littleMu.png" class="fit image"> 
+<img src="/images/me/LittleMu.png" class="fit image"> 
 
 # Research Experience
 
