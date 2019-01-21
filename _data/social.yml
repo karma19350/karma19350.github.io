@@ -1,0 +1,13 @@
+- name: Facebook
+  link: 'https://www.facebook.com/profile.php?id=100024185180626#_'
+  social_icon: Facebook
+  new_window: true
+- name: LinkedIn
+  link: ''
+  social_icon: LinkedIn
+  new_window: false #true
+- name: YouTube
+  link: ''
+  social_icon: YouTube
+  new_window: false # true 
+

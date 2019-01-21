@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-21T23:32:49+08:00</updated><id>http://localhost:4000/</id><title>Qingyang Zhong’s Homepage</title><subtitle>Welcome to my personal page.
+</subtitle><author><name>Qingyang Zhong</name><email>zhongqy16@mails.tsinghua.edu.com</email></author><entry><title>Extracurricular Life</title><link href="http://localhost:4000/2018/12/08/4-Life/" rel="alternate" type="text/html" title="Extracurricular Life" /><published>2018-12-08T00:00:00+08:00</published><updated>2018-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2018/12/08/4-Life</id><content type="html" xml:base="http://localhost:4000/2018/12/08/4-Life/">&lt;p&gt;&lt;img src=&quot;/images/me/symphony3.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;symphony-orchestra&quot;&gt;Symphony Orchestra&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;        I started practicing musical instruments when I was 4 years old and have been learning music for more than 15 years. I obtained my Portatone Keyboard Amateur Grade 10  In 2008 and Clarinet Amateur Grade 10 In 2012, both of the highest amateur level in China. Since I was admitted into Tsinghua University, I have been the Clarinet of Tsinghua University Symphony Orchestra. During my freshman year,  I participated in 7 performances and won Gold Prize of Group Instrumental Performance in Beijing University Music Festival on behalf of my school, which I am really proud of .&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/me/symphony2.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;dancing&quot;&gt;Dancing&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;        Since I entered university, dancing has become one of my hobbies. I am willing to try different kinds of dance! I learned ballet in my figure training class and performed jazz with other girls in Student Festival. Besides, I also do aerobics well and was once an aerobics team member of my department.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/me/MeDance.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;voluntary-work&quot;&gt;Voluntary Work&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;        I enjoyed doing voluntary work in my spare time. The feeling of helping others is so good. During the summer or winter vacation, I usually go to remote area to do voluntary work . The photos were shot in Huangzhong County, Qinghai Province in 2017, while I was doing voluntary teaching there. You can see tears in both my eyes and my students’ eyes since we are so closed and it is so hard to say goodbye.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/me/QinghaiCom1.png&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;</content><author><name>Qingyang Zhong</name><email>zhongqy16@mails.tsinghua.edu.com</email></author><summary></summary></entry><entry><title>Research Experience</title><link href="http://localhost:4000/2018/12/08/3-Research/" rel="alternate" type="text/html" title="Research Experience" /><published>2018-12-08T00:00:00+08:00</published><updated>2018-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2018/12/08/3-Research</id><content type="html" xml:base="http://localhost:4000/2018/12/08/3-Research/">&lt;p&gt;&lt;img src=&quot;/images/me/littleMU.png&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;research-experience&quot;&gt;Research Experience&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;         &lt;a href=&quot;https://xuetangx.com/&quot;&gt;XuetangX&lt;/a&gt; is one of the largest MOOCs in China. Massive Open Online Courses (MOOCs) collect complete records of student interactions in an online learning environment. Using dataset from xuetangX (&lt;a href=&quot;http://101.6.244.4:9123/&quot;&gt;MoocData&lt;/a&gt;), Our research group is devoted to develop an Intelligent learning peer LittleMu, which can not only understand users’ intention but also tell users basic knowledge and other users’ learning progress.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+
+&lt;img src=&quot;/images/me/xiaomu1.png&quot; class=&quot;fit image&quot; /&gt; 
+
+&lt;/div&gt;
+
+&lt;h3 id=&quot;question-template-extraction-in-mooc&quot;&gt;Question Template Extraction in MOOC&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Independent Research, Supervised by Prof&lt;/em&gt;&lt;/strong&gt;. &lt;strong&gt;&lt;em&gt;&lt;a href=&quot;http://keg.cs.tsinghua.edu.cn/jietang/&quot;&gt;Jie Tang&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;   &lt;em&gt;(Sep. 2018 ~ present)&lt;/em&gt;&lt;br /&gt;Different users may have different ways to express the same meanings. To better understand users’ intention and give back a proper answer using knowledge graph, I generalized questions with similar meanings to construct question template sketch. Then Word2Vec model is used to obtain embeddings and match the question with the most corresponding template. RNN model and Bert model are also tried to improve the classification performance. In future work, it is planned to cluster questions under matching threshold to learn new features automatically and draw new templates.&lt;/p&gt;
+
+&lt;h3 id=&quot;entity-disambiguation-in-mooc&quot;&gt;Entity Disambiguation in MOOC&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Independent Research, Supervised by Prof&lt;/em&gt;&lt;/strong&gt;. &lt;strong&gt;&lt;em&gt;&lt;a href=&quot;http://keg.cs.tsinghua.edu.cn/jietang/&quot;&gt;Jie Tang&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;   &lt;em&gt;(Jun. 2018  ~ Sep. 2018）&lt;/em&gt;&lt;br /&gt;Questions about concept explanation take a high proportion of users’ queries. However, the retrieve result can be bad sometimes since the item which matches best literally may overlook context. Embeddings of the course information where the questions are raised are used to disambiguate entities. Utilization of the context effectively improve the performance of question answering module.&lt;/p&gt;
+
+&lt;h3 id=&quot;course-concept-extraction-in-mooc-via-explicitimplicit-representation&quot;&gt;&lt;a href=&quot;/files/Course Concept Extraction in MOOC via Explicit_Implicit Representation.pdf&quot;&gt;Course Concept Extraction in MOOC via Explicit/Implicit Representation&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Xiaochen Wang, Wenzheng Feng, &lt;a href=&quot;http://keg.cs.tsinghua.edu.cn/jietang/&quot;&gt;Jie Tang&lt;/a&gt; and Qingyang Zhong&lt;/em&gt;&lt;/strong&gt;   (&lt;em&gt;Feb. 2018  ~  Jun. 2018&lt;/em&gt;)&lt;br /&gt;Course concept extraction can be hard with only semi-structured and unstructured textual content in MOOC. In our research, We utilized structured data on Wikipedia to generate implicit and explicit representation for concepts and designed a graph-based propagation method to extract important concepts from MOOCs. The paper has been accepted by IEEE DSC 2018. Click &lt;a href=&quot;/files/Course Concept Extraction in MOOC via Explicit_Implicit Representation.pdf&quot;&gt;here&lt;/a&gt; for details.&lt;/p&gt;
+
+&lt;h1 id=&quot;internship&quot;&gt;Internship&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/me/TechXCom1.PNG&quot; class=&quot;fit image&quot; /&gt;        This summer, I worked as a teaching assistant of &lt;em&gt;Deep Reinforcement Learning&lt;/em&gt; course at &lt;em&gt;&lt;a href=&quot;http://techxsummit.com/index-en.html&quot;&gt;TechX Summit&lt;/a&gt;&lt;/em&gt;, one of the biggest and most influential STEM summer camps in China.&lt;br /&gt;         Except for assisting with teaching, I also gave a seminar talk on the theory of Chatbot there and devoted to help students with their hackathon projects concerning machine learning and deep learning at the end of the summit.&lt;/p&gt;</content><author><name>Qingyang Zhong</name><email>zhongqy16@mails.tsinghua.edu.com</email></author><summary></summary></entry><entry><title>Academic Experience</title><link href="http://localhost:4000/2018/12/08/2-Academic/" rel="alternate" type="text/html" title="Academic Experience" /><published>2018-12-08T00:00:00+08:00</published><updated>2018-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2018/12/08/2-Academic</id><content type="html" xml:base="http://localhost:4000/2018/12/08/2-Academic/">&lt;p&gt;&lt;img src=&quot;/images/me/Tsinghua3.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;education-experience&quot;&gt;Education Experience&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;tsinghua-universitydepartment-of-automation-eecs&quot;&gt;Tsinghua University，Department of Automation (EECS)&lt;br /&gt;&lt;/h3&gt;
+
+&lt;p&gt;August, 2016  ~  July. 2020 (Expected)&lt;/p&gt;
+
+&lt;p&gt;Second Year Overall GPA：&lt;strong&gt;3.63/4.00&lt;/strong&gt;      Rank:  &lt;strong&gt;8/165&lt;/strong&gt;&lt;br /&gt;Major GPA：&lt;strong&gt;3.51/4.00&lt;/strong&gt;                                   Rank: &lt;strong&gt;13/165&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;related-courses&quot;&gt;Related Courses&lt;br /&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Mathematics:&lt;/strong&gt; Linear Algebra(2)(&lt;strong&gt;A&lt;/strong&gt;), Linear Algebra(1)(&lt;strong&gt;A-&lt;/strong&gt;), Calculus A(1)(2), Stochastic Mathematical Methods (&lt;strong&gt;A-&lt;/strong&gt;), Introduction to Complex Analysis (&lt;strong&gt;A-&lt;/strong&gt;), Numerical Analysis and Algorithms.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Computer Science:&lt;/strong&gt; Computer Languages and Programming, Data Structures, C++ Programme Design and Training, Introduction to Artificial Intelligence, Computer Networks and Applications.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Others：&lt;/strong&gt;Physics for Scientists and Engineers B(1)(&lt;strong&gt;A&lt;/strong&gt;), Physics for Scientists and Engineers B(2)(&lt;strong&gt;A&lt;/strong&gt;), Fundamentals of Analog Electronics(&lt;strong&gt;A-&lt;/strong&gt;), Signals and System Analysis(&lt;strong&gt;A-&lt;/strong&gt;), Computational Genome Analysis,  Digital Electronics.&lt;/p&gt;
+
+&lt;h1 id=&quot;awards-and-honors&quot;&gt;Awards and Honors&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/files/Certificate1.pdf&quot;&gt;China National Scholarship&lt;/a&gt; (Highest scholarship of the Government of China)，2018&lt;/li&gt;
+  &lt;li&gt;Friend of Tsinghua, Guangzhou Pharmaceutical Holdings Limited Scholarship，2017&lt;br /&gt; (Academic Excellence Award)&lt;/li&gt;
+  &lt;li&gt;University Scholarship for Excellent Science and Technology Innovation，2018&lt;/li&gt;
+  &lt;li&gt;University Scholarship for Excellent Literature and Art Work，2017, 2018&lt;/li&gt;
+  &lt;li&gt;University Scholarship for Excellent Society Practice Work，2017&lt;/li&gt;
+  &lt;li&gt;HAGE Scholarship of Department of Automation，2018&lt;/li&gt;
+  &lt;li&gt;3rd Prize in 36th Tsinghua Challenge Cup，Apr.2018 &lt;br /&gt;(Competition in Academic and Technology Innovations)&lt;/li&gt;
+  &lt;li&gt;2nd Prize in 7th Tsinghua Innovation Competition (Rank 3rd of all teams)，May.2018&lt;/li&gt;
+  &lt;li&gt;2nd Prize in Tsinghua Hardware Design Competition，Jun.2017&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;computing-skills-and-others&quot;&gt;Computing Skills and Others&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Programming languages:&lt;/strong&gt; &lt;br /&gt;Python, C#, C/C++, MATLAB, VerilogHDL.&lt;br /&gt;&lt;strong&gt;Software and Operation Systems:&lt;/strong&gt; &lt;br /&gt;GitHub, Linux, LaTeX.&lt;br /&gt;&lt;strong&gt;Languages:&lt;/strong&gt; &lt;br /&gt;Native in Chinese; Proficient in English (GRE Verbal 157, Quantitative 169)&lt;/p&gt;</content><author><name>Qingyang Zhong</name><email>zhongqy16@mails.tsinghua.edu.com</email></author><summary></summary></entry><entry><title>About Me</title><link href="http://localhost:4000/2018/12/08/1-About/" rel="alternate" type="text/html" title="About Me" /><published>2018-12-08T00:00:00+08:00</published><updated>2018-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2018/12/08/1-About</id><content type="html" xml:base="http://localhost:4000/2018/12/08/1-About/">&lt;p&gt;&lt;img src=&quot;/images/me/Me3.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;        &lt;strong&gt;I am currently a junior undergraduate student in Department of Automation (EECS), Tsinghua University&lt;/strong&gt;. &lt;strong&gt;My research interests lie in Data Mining and Knowledge Discovery.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;        &lt;strong&gt;Since Fall 2017, I have  been working with Prof. &lt;a href=&quot;http://keg.cs.tsinghua.edu.cn/jietang/&quot;&gt;Jie Tang&lt;/a&gt; doing research in data mining and knowledge graph building in MOOCs. Using dataset from &lt;a href=&quot;https://xuetangx.com/&quot;&gt;XuetangX&lt;/a&gt;, one of the largest MOOCs from China, I am now working on the topic of question template extraction to help develop the intelligent educational system.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;        &lt;strong&gt;During my leisure time, I enjoy various literature and art activities. I used to the Clarinet of &lt;a href=&quot;http://news.tsinghua.edu.cn/publish/thunewsen/9678/2016/20161116144832066365256/20161116144832066365256_.html&quot;&gt;Tsinghua University Symphony Orchestra&lt;/a&gt; and started practicing musical instruments when I was 4 years old. Click the label below to learn more about me!&lt;/strong&gt;&lt;/p&gt;</content><author><name>Qingyang Zhong</name><email>zhongqy16@mails.tsinghua.edu.com</email></author><summary></summary></entry></feed>

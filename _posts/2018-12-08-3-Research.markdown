@@ -1,0 +1,43 @@
+---
+layout: post
+title: Research Experience
+---
+
+<img src="/images/me/littleMU.png" class="fit image"> 
+
+# Research Experience
+
+------
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [XuetangX](https://xuetangx.com/) is one of the largest MOOCs in China. Massive Open Online Courses (MOOCs) collect complete records of student interactions in an online learning environment. Using dataset from xuetangX ([MoocData](http://101.6.244.4:9123/)), Our research group is devoted to develop an Intelligent learning peer LittleMu, which can not only understand users' intention but also tell users basic knowledge and other users' learning progress. 
+
+<div align="center">
+
+<img src="/images/me/xiaomu1.png" class="fit image"> 
+
+</div>
+
+###  Question Template Extraction in MOOC
+
+***Independent Research, Supervised by Prof***. ***[Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/)***&nbsp;&nbsp; *(Sep. 2018 ~ present)*<br/>Different users may have different ways to express the same meanings. To better understand users' intention and give back a proper answer using knowledge graph, I generalized questions with similar meanings to construct question template sketch. Then Word2Vec model is used to obtain embeddings and match the question with the most corresponding template. RNN model and Bert model are also tried to improve the classification performance. In future work, it is planned to cluster questions under matching threshold to learn new features automatically and draw new templates. 
+
+### Entity Disambiguation in MOOC
+
+***Independent Research, Supervised by Prof***. ***[Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/)*** &nbsp;&nbsp;*(Jun. 2018  ~ Sep. 2018）*<br/>Questions about concept explanation take a high proportion of users' queries. However, the retrieve result can be bad sometimes since the item which matches best literally may overlook context. Embeddings of the course information where the questions are raised are used to disambiguate entities. Utilization of the context effectively improve the performance of question answering module.
+
+### [Course Concept Extraction in MOOC via Explicit/Implicit Representation](/files/Course Concept Extraction in MOOC via Explicit_Implicit Representation.pdf)
+
+***Xiaochen Wang, Wenzheng Feng, [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) and Qingyang Zhong***&nbsp;&nbsp; (*Feb. 2018  ~  Jun. 2018*)<br/>Course concept extraction can be hard with only semi-structured and unstructured textual content in MOOC. In our research, We utilized structured data on Wikipedia to generate implicit and explicit representation for concepts and designed a graph-based propagation method to extract important concepts from MOOCs. The paper has been accepted by IEEE DSC 2018. Click [here](/files/Course Concept Extraction in MOOC via Explicit_Implicit Representation.pdf) for details.
+
+
+
+# Internship
+
+------
+
+<img src="/images/me/TechXCom1.PNG" class="fit image">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This summer, I worked as a teaching assistant of *Deep Reinforcement Learning* course at *[TechX Summit](http://techxsummit.com/index-en.html)*, one of the biggest and most influential STEM summer camps in China.<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Except for assisting with teaching, I also gave a seminar talk on the theory of Chatbot there and devoted to help students with their hackathon projects concerning machine learning and deep learning at the end of the summit.
+
+
+
+
+
