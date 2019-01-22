@@ -12,7 +12,6 @@ title: Research Experience
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [XuetangX](https://xuetangx.com/) is one of the largest MOOCs in China. Massive Open Online Courses (MOOCs) collect complete records of student interactions in an online learning environment. Using dataset from xuetangX ([MoocData](http://101.6.244.4:9123/)), Our research group is devoted to develop an Intelligent learning peer LittleMu, which can not only understand users' intention but also tell users basic knowledge and other users' learning progress. 
 
 <div align="center">
-
 <img src="/images/me/xiaomu1.png" class="fit image"> 
 
 </div>
@@ -35,7 +34,7 @@ title: Research Experience
 
 ------
 
-<img src="/images/me/TechXCom1.png" class="fit image">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This summer, I worked as a teaching assistant of *Deep Reinforcement Learning* course at *[TechX Summit](http://techxsummit.com/index-en.html)*, one of the biggest and most influential STEM summer camps in China.<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Except for assisting with teaching, I also gave a seminar talk on the theory of Chatbot there and devoted to help students with their hackathon projects concerning machine learning and deep learning at the end of the summit.
+<img src="/images/me/TechXCom1.png" class="fit image">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This summer, I worked as a teaching assistant of *Deep Reinforcement Learning* course at *[TechX Summit](http://techxsummit.com/index-en.html)*, one of the biggest and most influential STEM summer camps in China.<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apart from assisting with teaching, I also gave a seminar talk on the theory of Chatbot there and devoted to helping students with their hackathon projects concerning machine learning and deep learning at the end of the summit.
 
 
 
