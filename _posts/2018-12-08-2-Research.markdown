@@ -18,7 +18,7 @@ title: Research Experience
 
 ###  Question Template Extraction in MOOC
 
-***Independent Research, Supervised by Prof***. ***[Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/)***&nbsp;&nbsp; *(Sep. 2018 ~ present)*<br/>Different users may have different ways to express the same meanings. To better understand users' intention and give back a proper answer using knowledge graph, I generalized questions with similar meanings to construct question template sketch. Then Word2Vec model is used to obtain embeddings and match the question with the most corresponding template. RNN model and Bert model are also tried to improve the classification performance. In future work, it is planned to cluster questions under matching threshold to learn new features automatically and draw new templates. 
+***Independent Research, Supervised by Prof***. ***[Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/)***&nbsp;&nbsp; *(Sep. 2018 ~ present)*<br/>Different users may have different ways to express the same idea. To better understand users' intention and give back a proper answer using knowledge graph, questions with similar meanings are generalized to construct question template sketch.  Word2Vec model is proposed to be used to obtain embeddings  and match the question with the most corresponding template. RNN model and Bert model are tried to improve the classification performance. In future work, it is planned to cluster questions under matching thresholds to learn new features automatically and draw new templates. 
 
 ### Entity Disambiguation in MOOC
 

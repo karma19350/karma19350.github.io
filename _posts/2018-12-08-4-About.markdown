@@ -6,7 +6,7 @@ title: About Me
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I am currently a junior undergraduate student in Department of Automation (EECS), Tsinghua University**. **My research interests lie in Data Mining and Knowledge Discovery.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Since Fall 2017, I have  been working with Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) doing research in data mining and knowledge graph building in MOOCs. Using dataset from [XuetangX](https://xuetangx.com/), one of the largest MOOCs from China, I am now working on the topic of question template extraction to help develop the intelligent educational system.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Since Fall 2017, I have  been working with Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) doing research in data mining and knowledge graph building in MOOCs. Using dataset from [XuetangX](https://xuetangx.com/), one of the largest MOOCs from China, I am now working on question template extraction to help develop the intelligent educational system.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**During my leisure time, I enjoy various literature and art activities. I used to the Clarinet of [Tsinghua University Symphony Orchestra](http://news.tsinghua.edu.cn/publish/thunewsen/9678/2016/20161116144832066365256/20161116144832066365256_.html) and started practicing musical instruments when I was 4 years old. Click the label below to learn more about me!**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**During my leisure time, I enjoy various literature and art activities. I started practicing musical instruments when I was 4 years old and used to be the Clarinetist of [Tsinghua University Symphony Orchestra](http://news.tsinghua.edu.cn/publish/thunewsen/9678/2016/20161116144832066365256/20161116144832066365256_.html) . Click the label below to learn more about me!**
 

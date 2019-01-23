@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # Author details for the jekyll-seo-tag gem
 author:
   name: Qingyang Zhong
-  email: zhongqy16@mails.tsinghua.edu.com
+  email: zhongqy16@mails.tsinghua.edu.cn
   twitter: # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
